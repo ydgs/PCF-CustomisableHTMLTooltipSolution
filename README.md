@@ -4,6 +4,10 @@
 
 A highly customizable PowerApps Component Framework (PCF) control that provides rich HTML tooltip functionality with extensive styling and animation options.
 
+<img src="screenshots/CTLP1.png" alt="Quill Custom Rich Text Editor For PowerApps" height="180px"> <img src="screenshots/CTLP2.png" alt="Quill Custom Rich Text Editor For PowerApps" height="180px">
+<img src="screenshots/CTLP3.png" alt="Quill Custom Rich Text Editor For PowerApps" height="180px"> <img src="screenshots/CTLP4.png" alt="Quill Custom Rich Text Editor For PowerApps" height="180px">
+<img src="screenshots/CTLP5.png" alt="Quill Custom Rich Text Editor For PowerApps" height="180px"> <img src="screenshots/CTLP6.png" alt="Quill Custom Rich Text Editor For PowerApps" height="180px">
+
 ## 🚀 Features
 
 - **Rich HTML Content**: Display formatted HTML content in tooltips with automatic sanitization
